@@ -1,0 +1,14 @@
+.button {
+  margin-top: 3rem;
+  font-size: 1.2rem;
+}
+
+.blog_list {
+  display: flex;
+}
+
+.blog__list_header {
+  display: flex;
+  justify-content: end;
+}
+
